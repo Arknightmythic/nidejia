@@ -1,0 +1,6 @@
+[submodule "nidejia-backend"]
+	path = nidejia-backend
+	url = https://github.com/Arknightmythic/nidejia-backend.git
+[submodule "nidejia-prototype-main"]
+	path = nidejia-prototype-main
+	url = https://github.com/Arknightmythic/nidejia-prototype-main.git
